@@ -9,14 +9,15 @@ this is sample line
 
 # This is Code Example
 ``` python
-print("Hello this is sara")
+print("HYY How you doing:?")
+this is markdown file;
 ```
 
 ``` java
-HI, SARA :)
+~ , SARA :)
 ```
 
 # This is Markdown lists
 - [x] To get up
-- [ X] To Do Yoga
+- [X] To Do Yoga
 - [ ] To Drink water

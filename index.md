@@ -16,3 +16,7 @@ print("HELLO WORLD")
 hello
 ```
 
+# This is Markdown lists
+- [x] To get up
+- [ ] To Do Yoga
+- [ ] To Drink water

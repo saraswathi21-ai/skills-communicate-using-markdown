@@ -6,3 +6,13 @@ this is sample line
 
 # This is Image section 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# This is Code Example
+``` python
+print("HELLO WORLD")
+```
+
+``` java
+hello
+```
+

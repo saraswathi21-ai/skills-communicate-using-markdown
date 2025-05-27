@@ -1,7 +1,7 @@
 #  Heading
 #  Helo
 # Sara
-#### hyyy, Sara this is this is your  sample file to do your task
+#### hyyy, Sara this is  your  sample file to do your task
 
 
 # This is Image section 
